@@ -4,7 +4,7 @@
   "description": "![wo-dashboard](https://img.virtubox.net/images/2019/08/06/ezgif-2-25972e04a434.gif)",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.1",
     "gulp-clean-css": "^4.2.0",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2"
